@@ -1,0 +1,30 @@
+#headingDiv {
+    box-shadow: 3px 4px 10px black;
+}
+
+#things {
+    float: none;
+    box-shadow: 3px 3px 15px black;
+    border-radius: 20px;
+}
+
+.object, .accuracy {
+    box-shadow: 3px 3px 10px black;
+}
+
+
+.copy_right_footer {
+    position: fixed;
+    color:rgba(0, 0, 0, 0.897);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(31, 161, 161);
+    line-height: 2;
+    text-align: center;
+}
+
+canvas {
+    box-shadow: 2px, 3px, 9px, black;
+    border: 2px dotted black;
+    margin-top: 140px;
+}
